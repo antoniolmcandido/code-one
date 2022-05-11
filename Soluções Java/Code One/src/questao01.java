@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questao01 {
+public class questao01 {
     public static void main(String[] args) throws Exception {
         try (Scanner entrada = new Scanner(System.in)) {
             System.out.println("Digite um número entre 1 e 10: ");
@@ -11,3 +11,4 @@ public class Questao01 {
             }
         }        
     }
+}
