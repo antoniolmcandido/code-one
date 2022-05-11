@@ -1,0 +1,1 @@
+print(''.join(f'{i} ' for i in range(1,(int(input('Informe um número: '))+1))))
